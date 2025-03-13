@@ -26,7 +26,9 @@ El archivo principal de este proyecto es `index.html`, el cual está organizado 
 #### d) Formulario y Botón (`section`)
    - Formulario con los siguientes campos:
      - Nombre.
-     - Comentario.
+     - Correo electrónico
+     - Número telefónico
+     - Fecha de nacimiento
      - Botón de envío.
 
 #### e) Tabla (`section`)
