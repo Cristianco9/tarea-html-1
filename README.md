@@ -1,23 +1,23 @@
 # Descripción de la Tarea
 
-Este proyecto consiste en la creación de una página web estructurada en HTML para presentar información sobre modelos de IA generativa. Se han definido varias secciones con elementos clave para organizar el contenido de manera efectiva.
+Este proyecto tiene como objetivo la creación de una página web en HTML sobre el tema **"¿Qué es el Back-end?"**. La estructura del documento está dividida en secciones que ayudarán a organizar la información de manera clara y comprensible.
 
 ## Estructura del Proyecto
 
 El archivo principal de este proyecto es `index.html`, el cual está organizado de la siguiente manera:
 
 ### 1. **Encabezado (`header`)**
-   - Sección reservada para el título del blog.
+   - Espacio reservado para el título del blog.
 
 ### 2. **Contenido Principal (`main`)**
 
 #### a) Introducción (`section`)
-   - Contiene un párrafo de introducción con texto en **negrita** y *cursiva*.
-   - Incluye una cita destacada.
+   - Contiene un párrafo introductorio con texto en **negrita** y *cursiva*.
+   - Incluye una cita relacionada con el back-end.
 
 #### b) Listas (`section`)
-   - Lista ordenada con modelos de IA generativa.
-   - Lista desordenada con conocimientos necesarios para desarrollar IA.
+   - Lista ordenada con diferentes lenguajes de programación utilizados en el desarrollo Back-end.
+   - Lista desordenada con conocimientos necesarios para trabajar en el Back-end.
 
 #### c) Multimedia (`section`)
    - Imagen insertada desde una URL dentro de un `div`.
@@ -30,7 +30,7 @@ El archivo principal de este proyecto es `index.html`, el cual está organizado 
      - Botón de envío.
 
 #### e) Tabla (`section`)
-   - Tabla con información sobre modelos de IA:
+   - Tabla con información sobre diferentes modelos de Back-end:
      - Encabezado (`thead`).
      - Cuerpo (`tbody`).
      - Pie de página (`tfoot`).
